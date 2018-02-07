@@ -22,7 +22,7 @@ Game Plot: Time has fractured for some unknown reason in the land of O'dune. Pas
 -successful implementation of animated sprites
 -custom font
 
-[Image](https://zevyirmiyahu.github.io/got1.png)
+[Image](https://zevyirmiyahu.github.io/got.png)
 
 
 [<< Back](http://zevyirmiyahu.github.io)
