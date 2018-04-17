@@ -11,7 +11,7 @@ Game Plot: Time has fractured for some unknown reason in the land of O'dune. Pas
 2. Animated water movement
 3. Open world map
 4. Crisps pixel characters and enivorment
-5. Challenging Quests
+5. Challenging Quests(Under Development)
 
 ### Technical features of the Project
 
@@ -21,10 +21,16 @@ Game Plot: Time has fractured for some unknown reason in the land of O'dune. Pas
 -sprite projectile rotation
 -successful implementation of animated sprites
 -custom font
+## Images
 
-[Image](https://zevyirmiyahu.github.io/got.png)
+## Menu Screen
+![Menu Screen](https://zevyirmiyahu.github.io/images/GOT_Images/gotScreen1.png)
 
-![Image](https://zevyirmiyahu.github.io/got.png)
+## Story Menu Screen
+![Story Menu Screen](https://zevyirmiyahu.github.io/images/GOT_Images/gotScreen2.png)
+
+## Game Play
+![Game Play](https://zevyirmiyahu.github.io/images/GOT_Images/gotScreen3.png)
 
 
 [<< Back](http://zevyirmiyahu.github.io)
