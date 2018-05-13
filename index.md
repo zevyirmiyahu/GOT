@@ -21,6 +21,10 @@ Game Plot: Time has fractured for some unknown reason in the land of O'dune. Pas
 -sprite projectile rotation
 -successful implementation of animated sprites
 -custom font
+
+## Download Zip File
+<a href="got.zip" download>Download Zip File</a>
+
 ## Images
 
 ## Menu Screen
