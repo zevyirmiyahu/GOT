@@ -23,7 +23,7 @@ Game Plot: Time has fractured for some unknown reason in the land of O'dune. Pas
 -custom font
 
 ## Download the Game
-To play, download the JAR file: <a href="" download>Download JAR File</a> (Coming soon..) Make sure you have the latest version of Java installed, if not click here click here to get that first.
+To play, download the JAR file: <a href="" download>Download JAR File</a> (Coming soon..) Make sure you have the latest version of Java installed, if not [click here](https://www.java.com/en/) to get that first.
 
 
 ## Images
