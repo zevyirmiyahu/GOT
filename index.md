@@ -22,8 +22,9 @@ Game Plot: Time has fractured for some unknown reason in the land of O'dune. Pas
 -successful implementation of animated sprites
 -custom font
 
-## Download Zip File
-<a href="got.zip" download>Download Zip File</a>
+## Download the Game
+To play, download the JAR file: <a href="" download>Download JAR File</a> (Coming soon..) Make sure you have the latest version of Java installed, if not click here click here to get that first.
+
 
 ## Images
 
