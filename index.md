@@ -1,7 +1,7 @@
 ## The Gods of Time
 ## Official project page!
 
-This is a game project of mine that is an action-adventure style game. The game is written from scratch in Java and all sprites for the game were crafted using <a href="https://www.aseprite.org/" Aseprite</a>.
+This is a game project of mine that is an action-adventure style game. The game is written from scratch in Java and all sprites for the game were crafted using [asesprite](https://www.aseprite.org/).
 
 Game Plot: Time has fractured for some unknown reason in the land of O'dune. Past, present and future have now become one. The world is in chaos and it is up to the Gods of Time to save the land. You descend to the land of O'dune as the god of the present, Unum the Exalted. The adventure begins!
 
