@@ -1,1 +1,6 @@
-theme: jekyll-theme-architect
+title: Gods of Time
+logo: /assets/img/GitHub-Mark-120px-plus.png
+description: Role-playing game
+show_downloads: true
+google_analytics:
+theme: jekyll-theme-minimal
