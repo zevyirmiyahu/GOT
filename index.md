@@ -1,5 +1,7 @@
-## The Gods of Time
+## The Gods of Time (in development)
 ## Official project page!
+
+Note: This game is NOT finished, but a link to the jar file is provided below. Enjoy!
 
 This is a game project of mine that is an action-adventure style game. The game is written from scratch in Java and all sprites for the game were crafted using [asesprite](https://www.aseprite.org/).
 
